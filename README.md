@@ -4,14 +4,12 @@ The BEGIN...END statement is used to create a statement block (or a bit similar 
 
 #### Table of Contents
 Creating DB and Table
-Data Manipulation
-Generated ID
-Indexing
-Temporary Table
-User Defined Table Type
-OUTPUT clause
+- IF, ELSE, CASE
+- WHILE LoopGenerated ID
+- Try Catch Error
+- GOTO Statement
 
 #### Tools
-SQL Server 2019
-Atlas.BAK
-UpdatingEmployee.BAK
+- SQL Server 2019
+- GOTO Statement.Bak
+- Penerbangan.Bak
